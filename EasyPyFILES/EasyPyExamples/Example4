@@ -1,0 +1,8 @@
+set age to 16
+
+if age bigger than 17 {
+    print "Adult"
+}
+else {
+    print "Minor"
+}
