@@ -1,1 +1,8 @@
+set password to "hello"
 
+if password equal to "hello" {
+    print "Access granted"
+}
+else {
+    print "Access denied"
+}
