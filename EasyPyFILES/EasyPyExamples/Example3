@@ -1,0 +1,8 @@
+set x to 5
+
+while x bigger than 0 {
+    print x
+    set x to x - 1
+}
+
+print "Done!"
